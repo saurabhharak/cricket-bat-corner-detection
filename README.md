@@ -62,6 +62,8 @@ The DETR model is chosen for its state-of-the-art performance in object detectio
 ### PyTorch Lightning Integration
 The project leverages PyTorch Lightning to abstract away boilerplate code, simplifying the training process, and enhancing code readability. This allows for a more streamlined and efficient development workflow.
 
+[Cricket Bat Corner Detection Model And Checkpoint](https://drive.google.com/file/d/1HoWSiQ6qYlwlskvkmAzc_sRvziekqqad/view?usp=sharing)
+
 ## Conclusion
 
 This project provides a comprehensive and detailed guide to implementing cricket bat corner detection using the DETR model. The approach is robust, the code is well-structured and well-documented, and detailed instructions are provided at every step. Users can confidently replicate the process and adapt it for similar tasks. The DETR model, with its unique advantages, proves to be an excellent choice for this object detection application.
