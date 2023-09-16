@@ -1,4 +1,4 @@
-# Cricket Bat Corner Detection with DETR: Comprehensive Documentation
+# Cricket Bat Corner Detection with DETR:
 
 ## Introduction
 
